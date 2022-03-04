@@ -1,1 +1,1 @@
- 3-new_owner change owner of the file from hello to betty
+4-empty a script creates an emmpty file called helo
