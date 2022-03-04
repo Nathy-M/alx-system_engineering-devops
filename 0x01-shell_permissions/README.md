@@ -1,1 +1,1 @@
-10-mirror_permissions sets the name of the file hello same as 0lleh
+11-directories_permissions adds execute permissions to  all subdirectoriesof the current directory for owner, group owner and the user
