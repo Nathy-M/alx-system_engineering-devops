@@ -1,1 +1,1 @@
-7-everybody adds execution permission to the owner,group owner and the other user 
+8-James_Bond sets permission only to other user to the file hello
