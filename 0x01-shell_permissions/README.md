@@ -1,1 +1,1 @@
-13-change_group changes group owner to school for the file hello
+10-mirrors_permissions set the mode to olleh form hello
