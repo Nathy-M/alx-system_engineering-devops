@@ -1,1 +1,1 @@
-8-James_Bond sets permission only to other user to the file hello
+9-John_Doe sets the mode to hello
