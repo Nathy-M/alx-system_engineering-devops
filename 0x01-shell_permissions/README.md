@@ -1,1 +1,1 @@
-11-directories_permissions adds execute permissions to  all subdirectoriesof the current directory for owner, group owner and the user
+12-directory_permissions creates a directory called my_dir with permissions 751 in working directory
