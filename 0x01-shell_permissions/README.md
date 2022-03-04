@@ -1,1 +1,1 @@
-101-symbolic_link_permissions change group owner of _hello to vincent and staff 
+102-if_only changes owner of the file hello to betty only if it is owned by the user 
