@@ -1,1 +1,1 @@
-100-change_owner_and_group changes owner to vincent and the group owner to staff for all the working directory in the working diercoty
+101-symbolic_link_permissions change group owner of _hello to vincent and staff 
