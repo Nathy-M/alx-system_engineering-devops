@@ -1,1 +1,1 @@
-9-John_Doe sets the mode to hello
+10-mirror_permissions sets the name of the file hello same as 0lleh
