@@ -1,1 +1,1 @@
-display lines that do not contai pattern bin
+displaying letter starting with a letter
