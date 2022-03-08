@@ -1,1 +1,1 @@
-new read me for redirections and filters
+displaying the last ten lines
