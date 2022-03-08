@@ -1,1 +1,1 @@
-displays all users and home directories sorted by users
+duplicate last line of the file iacta
