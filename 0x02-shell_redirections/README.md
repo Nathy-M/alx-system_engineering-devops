@@ -1,1 +1,1 @@
-display file name containing text best school
+writes into the file and display the content
