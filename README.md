@@ -1,1 +1,1 @@
-10-mirrors_permissions set the mode to olleh form hello
+new read me for redirections and filters
