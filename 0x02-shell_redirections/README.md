@@ -1,1 +1,1 @@
-displaying the last ten lines
+displaying the first 10 lines
