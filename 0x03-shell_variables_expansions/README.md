@@ -1,1 +1,1 @@
-creating a script that prints number of directories inside PATH
+creating a script that lists environmental variables
