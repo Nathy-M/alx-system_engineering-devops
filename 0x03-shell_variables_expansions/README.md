@@ -1,1 +1,1 @@
-a script that prints hello user where user is the current linux server
+adding /action to the path./action
