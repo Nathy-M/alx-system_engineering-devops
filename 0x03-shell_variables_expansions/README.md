@@ -1,1 +1,1 @@
-12-combination
+prints number with two decimal places
